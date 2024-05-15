@@ -1,1 +1,0 @@
-cmd_/home/timmy/EOS/repo/hw1/hw1_driver.ko := aarch64-linux-gnu-ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/timmy/EOS/repo/hw1/hw1_driver.ko /home/timmy/EOS/repo/hw1/hw1_driver.o /home/timmy/EOS/repo/hw1/hw1_driver.mod.o;  true
